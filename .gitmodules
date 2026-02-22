@@ -1,0 +1,4 @@
+[submodule "src/plexe"]
+	path = src/plexe
+	url = https://github.com/marcofranceschini015/plexe.git
+	branch = research/misbehavior-detection
