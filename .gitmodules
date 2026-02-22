@@ -2,3 +2,11 @@
 	path = src/plexe
 	url = https://github.com/marcofranceschini015/plexe.git
 	branch = research/misbehavior-detection
+[submodule "src/sumo"]
+	path = src/sumo
+	url = https://github.com/lorenzo-ghiro/sumo.git
+	branch = comcomvsi2025-plexe3.2
+[submodule "src/veins"]
+	path = src/veins
+	url = https://github.com/lorenzo-ghiro/veins.git
+	branch = comcomvsi2025
