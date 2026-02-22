@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Hybrid (AI + Physics-Based) Misbehavior Detection System for PLEXE"
+type: software
+authors:
+  - family-names: Franceschini
+    given-names: Marco
+repository-code: "https://github.com/marcofranceschini015/plexe"
+message: "If you use this work, please cite the related paper."
+references:
+  - type: article
+    title: "An On-Line Misbehavior Detection Framework for Vehicular Networks"
+    year: 2025
+    url: "https://ieeexplore.ieee.org/document/10926031"
