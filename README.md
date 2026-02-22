@@ -124,7 +124,7 @@ https://ans.unibs.it/docs/plexeMDS.html
 
 # 🏗 Why This Repository Exists
 
-This repository exists to make clear:
+This repository exists to explain:
 
 - Architectural decisions
 - System design clarity
