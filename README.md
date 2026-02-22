@@ -3,8 +3,7 @@
 This repository explains the **architecture and engineering design** behind the system presented in the IEEE paper:
 
 “Physics Joins AI: A Real-Time Hybrid Misbehavior Detection Framework for Vehicular Networks”  
-Published on :contentReference[oaicite:0]{index=0}:  
-https://ieeexplore.ieee.org/document/10926031
+Published on: https://ieeexplore.ieee.org/document/10926031
 
 ---
 
@@ -90,8 +89,8 @@ All of this happens **within simulation time constraints**.
 
 This project demonstrates:
 
-- Embedding ML inference in C++ using Pybind11
-- Runtime model loading and inference inside OMNeT++
+- Embedding ML inference in C++ using **Pybind11**
+- Runtime model loading and inference inside **OMNeT++**
 - Safety-oriented state machine design
 - Clean separation between:
   - Simulation App logic
